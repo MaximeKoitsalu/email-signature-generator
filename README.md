@@ -1,4 +1,4 @@
-# email-signature-generator
+# Email Signature Generator
 
 ## Project setup
 ```
